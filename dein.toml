@@ -1,0 +1,8 @@
+[[plugins]]
+repo = 'preservim/nerdtree'
+
+[[plugins]]
+repo = 'itchyny/lightline.vim'
+
+[[plugins]]
+repo = 'Shougo/ddc.vim'
